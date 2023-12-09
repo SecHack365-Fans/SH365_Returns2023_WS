@@ -1,4 +1,3 @@
 # SH365_Returns2023_WS
 4 work shop  
-ra_men.jpg が正しいファイル  
-ramen.jpgは使わない
+答えがわかったら会場のメンバーに伝えるor Google formに記入(用意されてるかは不明)
